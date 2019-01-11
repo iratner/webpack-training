@@ -27,7 +27,7 @@ module.exports = {
             chunks: 'all'
         }
     },
-    module: {
+    module: { // loaders are executed from right to left, so last in the list is executed first
         rules: [
             {
                 test: /\.js$/,
@@ -36,7 +36,7 @@ module.exports = {
             },
             {
                 test: /\.hbs?/,
-                use: 'handlebars-loader',
+                use: 'handlebars-loader'
 
             },
             {
