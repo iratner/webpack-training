@@ -12,11 +12,11 @@
   position: absolute;
 
   .blue-quill-spinner-shadow {
-    background: url('#{$image-path}loader/loader_shadow.png') center no-repeat;
+    background: url('../../img/loader_shadow.png') center no-repeat;
     background-size: 100%;
 
       .blue-quill-spinner-inner {
-        background: url('#{$image-path}loader/loader.gif') center no-repeat;
+        background: url('../../img/loader.gif') center no-repeat;
         background-size: 100%;
         position: absolute;
       }

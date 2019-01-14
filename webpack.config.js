@@ -4,6 +4,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
+    mode: "development",
     entry: {
         app: './src/entry/index.js'
     },
@@ -27,11 +28,18 @@ module.exports = {
             chunks: 'all'
         }
     },
+    // devtool: 'eval-source-map',
     module: { // loaders are executed from right to left, so last in the list is executed first
         rules: [
             {
                 test: /\.js$/,
+                exclude: '/node_modules/',
+                use: ['babel-loader']
+            },
+            {
+                test: /\.js$/,
                 use: 'source-map-loader',
+                exclude: '/node_modules/',
                 enforce: 'pre'
             },
             {
