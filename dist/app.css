@@ -1,0 +1,174 @@
+@font-face {
+  font-family: "bluequill";
+  src: url(83b3fc1bca30907cf58a25b17a463f0d.eot);
+  src: url(83b3fc1bca30907cf58a25b17a463f0d.eot) format("embedded-opentype"), url(50ee5a73ef5dc470202972c7b6074517.woff) format("woff"), url(dca5e6f8325cc7eb1f7e01fcee49421d.ttf) format("truetype"), url(eab3adf9ca649c66523649003a726b68.svg) format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[data-icon]:before {
+  font-family: "bluequill" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "bluequill" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-bq-academic-advisor:before {
+  content: "\61"; }
+
+.icon-bq-activity-grid:before {
+  content: "\62"; }
+
+.icon-bq-dock-float:before {
+  content: "\63"; }
+
+.icon-bq-dock-snap:before {
+  content: "\64"; }
+
+.icon-bq-library-passport:before {
+  content: "\65"; }
+
+.icon-bq-military:before {
+  content: "\66"; }
+
+.icon-bq-my-tools:before {
+  content: "\67"; }
+
+.icon-bq-new-format:before {
+  content: "\68"; }
+
+.icon-bq-online-test-admin:before {
+  content: "\69"; }
+
+.icon-bq-open-object-analytic:before {
+  content: "\6a"; }
+
+.icon-bq-outcomes:before {
+  content: "\6b"; }
+
+.icon-bq-textbooks:before {
+  content: "\6c"; }
+
+.icon-bq-trash-can:before {
+  content: "\6d"; }
+
+.icon-bq-gsp-admin:before {
+  content: "\6e"; }
+
+.icon-bq-gsp:before {
+  content: "\6f"; }
+
+.icon-bq-groups:before {
+  content: "\70"; }
+
+.icon-bq-gradescale:before {
+  content: "\71"; }
+
+.icon-bq-grade-grid:before {
+  content: "\72"; }
+
+.icon-bq-filter:before {
+  content: "\73"; }
+
+.icon-bq-faculty-advisor:before {
+  content: "\74"; }
+
+.icon-bq-e-textbook:before {
+  content: "\75"; }
+
+.icon-bq-download-course:before {
+  content: "\76"; }
+
+.icon-bq-double-arrow:before {
+  content: "\77"; }
+
+.icon-bq-analytics:before {
+  content: "\78"; }
+
+.icon-bq-apps:before {
+  content: "\79"; }
+
+.icon-bq-close-object-analytic:before {
+  content: "\7a"; }
+
+.icon-bq-conditions:before {
+  content: "\41"; }
+
+.icon-bq-course:before {
+  content: "\42"; }
+
+.icon-bq-course-access:before {
+  content: "\43"; }
+
+.icon-bq-course-filter:before {
+  content: "\44"; }
+
+.icon-bq-course-history:before {
+  content: "\45"; }
+
+.icon-bq-details-discussions:before {
+  content: "\46"; }
+
+@font-face {
+  font-family: 'Staatliches';
+  src: url(58bd44be01e4dabd22e4086ac4640098.ttf);
+  /*This requires a file-loader to work with webpack*/ }
+
+.hidden {
+  display: none !important; }
+
+.blue-quill-spinner {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  top: 0;
+  left: 0;
+  z-index: 20000 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute; }
+  .blue-quill-spinner .blue-quill-spinner-shadow {
+    background: url(6cc342bf45b3a69bd425a1dbdd81181b.png) center no-repeat;
+    background-size: 100%; }
+    .blue-quill-spinner .blue-quill-spinner-shadow .blue-quill-spinner-inner {
+      background: url(e045f48a4c25df31ca76ff4f03f7c9bd.gif) center no-repeat;
+      background-size: 100%;
+      position: absolute; }
+  .blue-quill-spinner.small-spinner .blue-quill-spinner-shadow {
+    width: 112px;
+    height: 115px; }
+  .blue-quill-spinner.small-spinner .blue-quill-spinner-inner {
+    width: 100px;
+    height: 100px; }
+  .blue-quill-spinner.medium-spinner .blue-quill-spinner-shadow {
+    width: 112px;
+    height: 115px; }
+  .blue-quill-spinner.medium-spinner .blue-quill-spinner-inner {
+    width: 100px;
+    height: 100px; }
+  .blue-quill-spinner.large-spinner .blue-quill-spinner-shadow {
+    width: 112px;
+    height: 115px; }
+  .blue-quill-spinner.large-spinner .blue-quill-spinner-inner {
+    width: 100px;
+    height: 100px; }
+  .blue-quill-spinner.blue-quill-spinner-fixed {
+    position: fixed !important; }
+
