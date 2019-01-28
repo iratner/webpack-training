@@ -3,6 +3,10 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
+const onceImporter = require('node-sass-once-importer');
+
+// const LessPluginLists = require('less-plugin-lists');
+
 module.exports = {
     mode: "development",
     entry: {
@@ -52,17 +56,54 @@ module.exports = {
                 include: path.resolve(__dirname, 'src'),
                 use: [
                     MiniCssExtractPlugin.loader,
-                    'css-loader',
+                    {
+                        loader: 'css-loader',
+                        options: {
+                            sourceMap: true
+                        }
+                    },
                     'resolve-url-loader',
                     {
                         loader: 'sass-loader',
                         options: {
                             sourceMap: true,
-                            sourceMapContents: false
+                            sourceMapContents: false,
+                            includePaths: [
+                                'src/main-app/sass/',
+                                'src/components/sass/'
+                            ]
                         }
                     }
                 ]
             },
+            // {
+            //     test: /\.less?/,
+            //     include: path.resolve(__dirname, 'src'),
+            //     use: [
+            //         MiniCssExtractPlugin.loader,
+            //         {
+            //             loader: 'css-loader',
+            //             options: {
+            //                 sourceMap: true
+            //             }
+            //         },
+            //         'resolve-url-loader',
+            //         {
+            //             loader: 'less-loader',
+            //             options: {
+            //                 sourceMap: true,
+            //                 // sourceMapContents: false,
+            //                 // includePaths: [
+            //                 //     'src/main-app/sass/',
+            //                 //     'src/components/sass/'
+            //                 // ]
+            //                 plugins: [
+            //                     new LessPluginLists()
+            //                 ]
+            //             }
+            //         }
+            //     ]
+            // },
             {
                 test: /\.(png|svg|jpg|gif)$/, // File loader for IMAGES
                 use: 'file-loader'

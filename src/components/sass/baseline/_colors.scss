@@ -2,6 +2,7 @@
 /************************ STATUS AND CALL TO ACTION COLORS ************************/
 $color-cancel-red: #cb4a4a;
 $color-cancel-hover: #e64c4c;
+$color-cancel-inactive: #8b6461;
 
 
 /************************ TRANSPARENT COLORS ************************/
@@ -9,3 +10,150 @@ $color-black-transparent-15: rgba(1,1,1,.15);
 $color-black-transparent-25: rgba(1,1,1,.25);
 $color-black-transparent-50: rgba(1,1,1,.5);
 $color-black-transparent-75: rgba(1,1,1,.75);
+
+$color-gray-transparent-15: rgba(157, 157, 157, 0.15);
+$color-gray-transparent-25: rgba(157, 157, 157, 0.25);
+$color-gray-transparent-50: rgba(157, 157, 157, 0.5);
+$color-gray-transparent-75: rgba(157, 157, 157, 0.75);
+
+
+$color-white-transparent-15: rgba(255, 255, 255, .15);
+$color-white-transparent-25: rgba(255, 255, 255, .15);
+$color-white-transparent-50: rgba(255, 255, 255, .5);
+$color-white-transparent-75: rgba(255, 255, 255, .75);
+
+
+
+$teal-primary: #2891BD;
+$teal-primary-highlight: #28b0dc;
+$teal-bright: #249cca;
+$teal-light: #76cfff;
+$teal-mid-dark: #127aa5;
+$teal-dark: #30424f;
+
+$teal-dark-highlight: #216387;
+$teal-darkest: #0e1f25;
+$teal-darkest-highlight: #10252d;
+
+$floating-overlay-dark-teal: rgb(38, 46, 47);
+$floating-overlay-darkest-teal: #1c2324;
+$teal-black-bg: #262E2F;
+
+$teal-white: #d6edff;
+$teal-gray-mid: #7c9eaf;
+$teal-gray-mid-light: #a6b2bb;
+$teal-gray-mid-light-accent: #b0bcc5;
+
+$teal-bright-transparent-25: rgba(120, 211, 255, .35);
+$teal-bright-transparent-50: rgba(120, 211, 255, .5);
+$teal-dark-transparent-75: rgba(18, 86, 129, .75);
+
+$teal-blue-darkest: #0d2738;
+
+
+$green-transparent-85: rgba(128, 172, 121, 0.85);
+$green-transparent-40: rgba(175, 226, 168, 0.4);
+
+$green-light-transparent-40: rgba(195, 233, 189, 0.4);
+
+$green-light: #CAEEC5;
+$green-mid: #526E36;
+$green-dark: #2c4416;
+
+$orange-primary: #f1b421;
+$orange-primary-highlight: #ffe2a2;
+$orange-light: #ffefdb;
+$orange-mid: #bb6200;
+$orange-dark: #753200;
+$orange-bright: #ef6e00;
+
+
+/************************ Financial Aid Color Palette ***********************************/
+$paidBalanceColor: #4F9B48;
+$unpaidBalanceColor: #d5d5d5;
+$noBalanceColor: #d5d5d5;
+$segmentHoverNoData: #d5d5d5;
+
+$financialAidColorPrimary: #3870C3;
+$financialAidColorBar: #C5DAF9;
+$financialAidColorLightBackground: #EBEEF5;
+$employerColorPrimary: #492585;
+$employerColorLight: #C2B0E0;
+$militaryColorPrimary: #EA5B65;
+$militaryColorLight: #F9C0C3;
+$selfPayColorPrimary: #1A87B6;
+$selfPayColorLight: #BAEAFF;
+$pendingPaymentColor: #87EB85;
+
+
+$violet-attention: #9626ca;
+
+$red-dark: #80191c;
+$red-bright: #f80c03;
+
+/* OUTCOMES COLORS */
+$outcomes-pink: #ff007f;
+
+$cancel-button: #cb4a4a;
+$cancel-button-hover: #e64c4c;
+$cancel-button-inactive: #8b6461;
+
+$confirm-button: #52a966;
+$confirm-button-hover: #59c97f;
+$confirm-button-inactive: #617265;
+
+// Stepped pinks, for easy differentiation
+$pink-lightest: #d7b5d8;
+$pink-light: #df65b0;
+$pink-mid: #dd1c77;
+$pink-dark: #980043;
+
+$new-response: #bfd5dc; // kinda blue
+
+$gray-light: #cacaca;
+$gray-lighter: #eaeaea;
+$gray-lightest: #eeeeee;
+$gray-mid-light: #a3a2a2;
+$gray-mid: #909090;
+$dark-gray-heading: #313131;
+$gray-mid-dark: #474747;
+$gray-black: #272727;
+$gray-text: #555;
+
+$gray-header-hidden-items: #d5d5d5;
+
+// These colors can be used with instances where many elements exist, and need to be differentiated
+$course-red: #f7560c;
+$course-blue: #215bf7;
+$course-violet: #950cf7;
+$course-green: #21e03b;
+$course-light-blue: #03a2c1;
+$course-dark-red: #a40303;
+$course-yellow: #f7f538;
+$course-maroon: #980043;
+$course-peach-peach: #f48638;
+$course-dark-green: #0a9e03;
+$course-lavender: #ba54b3;
+$course-mid-red: #d7191c;
+
+//transparent colors
+$gray-transparent-75: rgba(157, 157, 157, 0.75);
+$gray-transparent-50: rgba(157, 157, 157, 0.5);
+$gray-transparent-25: rgba(157, 157, 157, 0.25);
+$gray-transparent-15: rgba(157, 157, 157, 0.15);
+
+$black-transparent-15: rgba(1,1,1,.15);
+$black-transparent-25: rgba(1,1,1,.25);
+$black-transparent-50: rgba(1,1,1,.5);
+$black-transparent-75: rgba(1,1,1,.75);
+
+$white-transparent-10: rgba(255, 255, 255, .1);
+$white-transparent-15: rgba(255, 255, 255, .15);
+$white-transparent-25: rgba(255, 255, 255, .15);
+$white-transparent-50: rgba(255, 255, 255, .5);
+$white-transparent-75: rgba(255, 255, 255, .75);
+$white-transparent-85: rgba(255, 255, 255, .85);
+
+.red-text {
+    color: $red-bright;
+}

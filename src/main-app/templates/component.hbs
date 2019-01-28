@@ -1,0 +1,13 @@
+<div class="component-wrapper">
+    <h1>{{name}}</h1>
+    <div class="component-types">
+        {{#each types as |type|}}
+            <span class="type-wrapper">
+                <span class="type-name">{{type.type}}</span>
+                <span class="type-component">
+                    {{{type.component.html}}}
+                </span>
+            </span>
+        {{/each}}
+    </div>
+</div>

@@ -2,22 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3df94bf-da10-462d-8f57-d2a30570b667" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/spinners/js/BlueQuillSpinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/BlueQuillModalWithCenteredContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sass/_component-style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/6cc342bf45b3a69bd425a1dbdd81181b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/e045f48a4c25df31ca76ff4f03f7c9bd.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors~app.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vendors~app.bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/img/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/spinners/img/loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/img/loader_shadow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/spinners/img/loader_shadow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/js/bq_Components.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sass/components.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sass/partials/_blue-quill-blanket-with-centered-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/modals/sass/partials/_blue-quill-blanket-with-centered-content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sass/partials/_blue-quill-spinner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/spinners/sass/partials/_blue-quill-spinner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/_BlueQuillBlanketWithCenteredContent.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/spinners/templates/_BlueQuillBlanketWithCenteredContent.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/_BlueQuillSpinner.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/spinners/templates/_BlueQuillSpinner.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/components.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/modals/js/overlay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/modals/sass/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/modals/sass/partials/_blue-quill-blanket-with-centered-content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sass/baseline/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sass/baseline/_colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinners/img/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinners/img/loader_shadow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/loader_shadow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinners/js/BlueQuillSpinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinners/sass/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinners/sass/partials/_blue-quill-spinner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinners/templates/_BlueQuillBlanketWithCenteredContent.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/spinners/templates/_BlueQuillSpinner.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_BlueQuillSpinner.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/another-module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/fonts/Staatliches/Staatliches-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/fonts/Staatliches/Staatliches-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/fonts/bq/bluequill.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/fonts/bq/bluequill.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/fonts/bq/bluequill.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/fonts/bq/bluequill.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/fonts/bq/bluequill.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/fonts/bq/bluequill.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/fonts/bq/bluequill.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/fonts/bq/bluequill.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/handlebars/_button.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/handlebars/partials/_text.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/img/icon.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entry/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/entry/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entry/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/entry/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entry/scss/common/_fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entry/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/index_old.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/print.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/sass/common/_bq.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/sass/fonts/_bq.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/sass/common/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/sass/baseline/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/sass/common/_utility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main-app/sass/baseline/_utility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry/sass/style.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,74 +51,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="BlueQuillSpinner.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/spinners/js/BlueQuillSpinner.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            <state relative-caret-position="323">
+              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_component-style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/sass/_component-style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlueQuillSpinner.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/BlueQuillSpinner.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="66" lean-forward="true" selection-start-column="66" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_blue-quill-spinner.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_blue-quill-spinner.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlueQuillModalWithCenteredContent.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/BlueQuillModalWithCenteredContent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_blue-quill-blanket-with-centered-content.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/_blue-quill-blanket-with-centered-content.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="45" selection-start-column="45" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/entry/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_blue-quill-spinner.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/spinners/sass/partials/_blue-quill-spinner.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_utility.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entry/sass/common/_utility.scss">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entry/sass/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+              <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,24 +146,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/src/components/js/bq_Components.js" />
-        <option value="$PROJECT_DIR$/src/components/sass/partials/_blue-quill-spinner.scss" />
-        <option value="$PROJECT_DIR$/src/components/spinners/modals/js/overlay.js" />
-        <option value="$PROJECT_DIR$/src/components/spinners/js/bq_Components.js" />
-        <option value="$PROJECT_DIR$/src/components/spinners/js/_BqSpinner.js" />
-        <option value="$PROJECT_DIR$/src/components/index.js" />
-        <option value="$PROJECT_DIR$/src/components/spinners/sass/components.scss" />
-        <option value="$PROJECT_DIR$/src/components/modals/sass/_modals.scss" />
-        <option value="$PROJECT_DIR$/src/components/spinners/sass/_spinners.scss" />
-        <option value="$PROJECT_DIR$/src/components/sass/baseline/_colors.scss" />
-        <option value="$PROJECT_DIR$/src/components/modals/sass/partials/_blue-quill-blanket-with-centered-content.scss" />
-        <option value="$PROJECT_DIR$/src/components/components.scss" />
-        <option value="$PROJECT_DIR$/src/entry/sass/style.scss" />
         <option value="$PROJECT_DIR$/src/entry/sass/common/_utility.scss" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/entry/index.js" />
+        <option value="$PROJECT_DIR$/src/components/spinners/js/BlueQuillSpinnerClass.js" />
+        <option value="$PROJECT_DIR$/src/entry/js/ComponentMaker.js" />
+        <option value="$PROJECT_DIR$/src/components/spinners/templates/_BlueQuillSpinner.hbs" />
+        <option value="$PROJECT_DIR$/src/helpers/js/ComponentMaker.js" />
+        <option value="$PROJECT_DIR$/src/helpers/index.js" />
+        <option value="$PROJECT_DIR$/src/helpers/templates/header.hbs" />
+        <option value="$PROJECT_DIR$/src/entry/sass/common/_main.scss" />
+        <option value="$PROJECT_DIR$/src/entry/sass/common/_fonts.scss" />
+        <option value="$PROJECT_DIR$/src/helpers/sass/_main-colors.scss" />
+        <option value="$PROJECT_DIR$/src/helpers/templates/component.hbs" />
+        <option value="$PROJECT_DIR$/src/helpers/sass/_component.scss" />
+        <option value="$PROJECT_DIR$/src/helpers/sass/_helper.scss" />
+        <option value="$PROJECT_DIR$/src/components/modals/js/overlay.js" />
+        <option value="$PROJECT_DIR$/src/components/modals/templates/_BlueQuillBlanketWithCenteredContent.hbs" />
+        <option value="$PROJECT_DIR$/src/components/modals/sass/_modals.scss" />
+        <option value="$PROJECT_DIR$/src/components/modals/js/BlueQuillModalWithCenteredContent.js" />
+        <option value="$PROJECT_DIR$/src/components/sass/baseline/_colors.scss" />
+        <option value="$PROJECT_DIR$/src/helpers/js/Composer.js" />
+        <option value="$PROJECT_DIR$/src/entry/sass/style.scss" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/_helper.scss" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/common/_helper.scss" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/common/_page.scss" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/style.scss" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/_baseline.scss" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/sections/_page.scss" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/sections/_component-content.scss" />
+        <option value="$PROJECT_DIR$/src/components/spinners/sass/_spinners.scss" />
+        <option value="$PROJECT_DIR$/src/components/spinners/sass/partials/_blue-quill-spinner.scss" />
         <option value="$PROJECT_DIR$/src/components/spinners/js/BlueQuillSpinner.js" />
+        <option value="$PROJECT_DIR$/src/components/spinners/blue-quill-spinner/js/BlueQuillSpinner.js" />
+        <option value="$PROJECT_DIR$/src/components/spinners/blue-quill-spinner/BlueQuillSpinner.js" />
+        <option value="$PROJECT_DIR$/src/main-app/js/Composer.js" />
+        <option value="$PROJECT_DIR$/src/main-app/sass/main-app.scss" />
+        <option value="$PROJECT_DIR$/src/components/sass/baseline/_colors.less" />
+        <option value="$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/_blue-quill-blanket-with-centered-content.less" />
+        <option value="$PROJECT_DIR$/src/components/sass/baseline/_mixins.less" />
+        <option value="$PROJECT_DIR$/src/components/components.scss" />
+        <option value="$PROJECT_DIR$/src/components/sass/categorized/spinners/_component-style.scss" />
+        <option value="$PROJECT_DIR$/src/components/sass/categorized/spinners/_blue-quill-spinner.scss" />
+        <option value="$PROJECT_DIR$/src/components/index.js" />
+        <option value="$PROJECT_DIR$/src/entry/index.js" />
+        <option value="$PROJECT_DIR$/src/components/sass/categorized/modals/_index.scss" />
+        <option value="$PROJECT_DIR$/src/components/sass/categorized/spinners/_index.scss" />
+        <option value="$PROJECT_DIR$/src/components/sass/categorized/modals/_blue-quill-blanket-with-centered-content.scss" />
+        <option value="$PROJECT_DIR$/src/components/sass/_component-style.scss" />
+        <option value="$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_blue-quill-spinner.scss" />
+        <option value="$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/_blue-quill-blanket-with-centered-content.scss" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/BlueQuillSpinner.js" />
+        <option value="$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/BlueQuillModalWithCenteredContent.js" />
       </list>
     </option>
   </component>
@@ -156,18 +233,67 @@
             <path>
               <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="utilities" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="categorized" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="categorized" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modals" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="categorized" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modals" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blue-quill-blanket-with-centered-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="categorized" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="spinners" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="categorized" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="spinners" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blue-quill-spinner" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="webpack-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-training" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="entry" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -181,18 +307,22 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Less" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\categorized\spinners\blue-quill-spinner" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\categorized\modals\blue-quill-blanket-with-centered-content" />
       <recent name="C:\Users\ratneri\code\webpack-training\src\components\sass" />
-      <recent name="C:\Users\ratneri\code\webpack-training\src\components\modals\sass\partials" />
-      <recent name="C:\Users\ratneri\code\webpack-training\src\components" />
-      <recent name="C:\Users\ratneri\code\webpack-training\src\components\spinners" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\sass\categorized\spinners" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\sass\categorized\modals" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ratneri\code\webpack-training\src\components\spinners\sass\baseline" />
-      <recent name="C:\Users\ratneri\code\webpack-training\src\components" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\sass\categorized\spinners" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\sass" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\sass\baseline" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\sass\animations" />
+      <recent name="C:\Users\ratneri\code\webpack-training\src\components\modals\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,38 +347,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547246457888</updated>
-      <workItem from="1547246459686" duration="10833000" />
+      <workItem from="1547246459686" duration="11059000" />
+      <workItem from="1547503577608" duration="1396000" />
+      <workItem from="1548366865936" duration="18866000" />
+      <workItem from="1548686092372" duration="15440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10833000" />
+    <option name="totallyTimeSpent" value="46761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="npm" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32995495" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3873874" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36002445" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36002445" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3873874" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -257,71 +412,31 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.babelrc">
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/baseline/_utility.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/modals/js/overlay.js">
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/_baseline.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_blue-quill-spinner.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="867">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/spinners/sass/_spinners.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/modals/sass/_modals.scss">
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/BlueQuillSpinner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="58" selection-start-column="58" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/_colors.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" selection-start-line="9" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/modals/sass/partials/_blue-quill-blanket-with-centered-content.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/components.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/spinners/sass/partials/_blue-quill-spinner.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="663">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -332,20 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entry/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/entry/sass/common/_utility.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -353,30 +454,304 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/entry/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_blue-quill-spinner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/baseline/_utility.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/_baseline.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dist/app.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="237" column="12" lean-forward="true" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/BlueQuillSpinner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/templates/header.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/templates/component.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/animations/_animations.scss" />
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_BlueQuillSpinner.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/_BlueQuillBlanketWithCenteredContent.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="62" lean-forward="true" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/baseline/_main-app-colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/baseline/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/_baseline.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/baseline/_utility.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/sections/_component-content.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/js/ComponentMaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/spinners/sass/_spinners.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/modals/sass/_modals.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/sass/main-app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/less/_colors.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main-app/js/Composer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/less/_mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/less/_variables.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_blue-quill-spinner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/baseline/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/animations/_component-animations.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/categorized/modals/blue-quill-blanket-with-centered-content/BlueQuillModalWithCenteredContent.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/components.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/_blue-quill-blanket-with-centered-content.scss">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/entry/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/spinners/js/BlueQuillSpinner.js">
+    <entry file="file://$PROJECT_DIR$/src/components/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/categorized/modals/_index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state>
+          <caret column="118" selection-start-column="118" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/categorized/spinners/_index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="76" selection-start-column="76" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/_blue-quill-spinner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sass/_component-style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/spinners/blue-quill-spinner/BlueQuillSpinner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" lean-forward="true" selection-start-column="66" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/_blue-quill-blanket-with-centered-content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/categorized/modals/blue-quill-blanket-with-centered-content/BlueQuillModalWithCenteredContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

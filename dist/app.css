@@ -1,3 +1,208 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+  html *, body * {
+    box-sizing: border-box; }
+
+/************************ STATUS AND CALL TO ACTION COLORS ************************/
+/************************ TRANSPARENT COLORS ************************/
+/************************ Financial Aid Color Palette ***********************************/
+/* OUTCOMES COLORS */
+.red-text {
+  color: #f80c03; }
+
+@-webkit-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@-moz-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@-o-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+/************************ STATUS AND CALL TO ACTION COLORS ************************/
+/************************ TRANSPARENT COLORS ************************/
+/************************ Financial Aid Color Palette ***********************************/
+/* OUTCOMES COLORS */
+.red-text {
+  color: #f80c03; }
+
+@-webkit-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@-moz-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@-o-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+.blue-quill-spinner {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  top: 0;
+  left: 0;
+  z-index: 20000 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute; }
+  .blue-quill-spinner .blue-quill-spinner-shadow {
+    background: url(6cc342bf45b3a69bd425a1dbdd81181b.png) center no-repeat;
+    background-size: 100%; }
+    .blue-quill-spinner .blue-quill-spinner-shadow .blue-quill-spinner-inner {
+      background: url(e045f48a4c25df31ca76ff4f03f7c9bd.gif) center no-repeat;
+      background-size: 100%;
+      position: absolute; }
+  .blue-quill-spinner.small-spinner .blue-quill-spinner-shadow {
+    width: 69px;
+    height: 69px; }
+  .blue-quill-spinner.small-spinner .blue-quill-spinner-inner {
+    width: 60px;
+    height: 60px; }
+  .blue-quill-spinner.medium-spinner .blue-quill-spinner-shadow {
+    width: 112px;
+    height: 115px; }
+  .blue-quill-spinner.medium-spinner .blue-quill-spinner-inner {
+    width: 100px;
+    height: 100px; }
+  .blue-quill-spinner.large-spinner .blue-quill-spinner-shadow {
+    width: 152px;
+    height: 152px; }
+  .blue-quill-spinner.large-spinner .blue-quill-spinner-inner {
+    width: 134px;
+    height: 134px; }
+  .blue-quill-spinner.blue-quill-spinner-fixed {
+    position: fixed !important; }
+
+/************************ STATUS AND CALL TO ACTION COLORS ************************/
+/************************ TRANSPARENT COLORS ************************/
+/************************ Financial Aid Color Palette ***********************************/
+/* OUTCOMES COLORS */
+.red-text {
+  color: #f80c03; }
+
+@-webkit-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@-moz-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@-o-keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+@keyframes blanket-fade-in {
+  0% {
+    opacity: 0;
+    filter: blur(3px); }
+  100% {
+    opacity: 1;
+    filter: blur(0); } }
+
+.blue-quill-blanket-with-centered-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  z-index: 10; }
+  .blue-quill-blanket-with-centered-content .centered-content {
+    display: inline-block;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.85); }
+    .blue-quill-blanket-with-centered-content .centered-content.blanket-fade-in {
+      -webkit-animation: blanket-fade-in 0.1s forwards ease-in;
+      -moz-animation: blanket-fade-in 0.1s forwards ease-in;
+      -o-animation: blanket-fade-in 0.1s forwards ease-in;
+      animation: blanket-fade-in 0.1s forwards ease-in; }
+  .blue-quill-blanket-with-centered-content .blue-quill-blanket-with-centered-content-close {
+    position: absolute;
+    right: -5px;
+    top: -7px;
+    width: 22px;
+    height: 22px;
+    background: #cb4a4a;
+    border-radius: 3px;
+    cursor: pointer; }
+    .blue-quill-blanket-with-centered-content .blue-quill-blanket-with-centered-content-close::after {
+      content: 'X';
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      display: inline-block;
+      font-weight: bolder;
+      font-size: 1.6em;
+      line-height: 1em;
+      text-align: center;
+      color: white; }
+  .blue-quill-blanket-with-centered-content.darken-background {
+    background-color: rgba(1, 1, 1, 0.5); }
+
 @font-face {
   font-family: "bluequill";
   src: url(83b3fc1bca30907cf58a25b17a463f0d.eot);
@@ -133,42 +338,68 @@
 .hidden {
   display: none !important; }
 
-.blue-quill-spinner {
+html, body {
   height: 100%;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.2) !important;
-  top: 0;
-  left: 0;
-  z-index: 20000 !important;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute; }
-  .blue-quill-spinner .blue-quill-spinner-shadow {
-    background: url(6cc342bf45b3a69bd425a1dbdd81181b.png) center no-repeat;
-    background-size: 100%; }
-    .blue-quill-spinner .blue-quill-spinner-shadow .blue-quill-spinner-inner {
-      background: url(e045f48a4c25df31ca76ff4f03f7c9bd.gif) center no-repeat;
-      background-size: 100%;
-      position: absolute; }
-  .blue-quill-spinner.small-spinner .blue-quill-spinner-shadow {
-    width: 112px;
-    height: 115px; }
-  .blue-quill-spinner.small-spinner .blue-quill-spinner-inner {
-    width: 100px;
-    height: 100px; }
-  .blue-quill-spinner.medium-spinner .blue-quill-spinner-shadow {
-    width: 112px;
-    height: 115px; }
-  .blue-quill-spinner.medium-spinner .blue-quill-spinner-inner {
-    width: 100px;
-    height: 100px; }
-  .blue-quill-spinner.large-spinner .blue-quill-spinner-shadow {
-    width: 112px;
-    height: 115px; }
-  .blue-quill-spinner.large-spinner .blue-quill-spinner-inner {
-    width: 100px;
-    height: 100px; }
-  .blue-quill-spinner.blue-quill-spinner-fixed {
-    position: fixed !important; }
+  margin: 0;
+  padding: 0; }
+  html *, body * {
+    box-sizing: border-box; }
+
+#main {
+  display: grid;
+  grid-template-columns: minmax(auto, 350px) 1fr;
+  grid-template-rows: 75px 1fr 100px;
+  grid-template-areas: "header header" "sidebar content" "footer footer";
+  height: 100%;
+  width: 100%; }
+  #main #main-header {
+    grid-area: header;
+    background-color: #e1e1e1;
+    padding-left: 1rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; }
+    #main #main-header .header-icon {
+      color: #001c38;
+      font-family: Roboto, sans-serif;
+      font-size: 2rem;
+      font-weight: bold; }
+  #main #main-content {
+    grid-area: content;
+    padding: 20px; }
+    #main #main-content .component-wrapper {
+      width: 100%;
+      height: 100%;
+      position: relative; }
+      #main #main-content .component-wrapper .component-types {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        grid-gap: 1rem; }
+        #main #main-content .component-wrapper .component-types .type-wrapper {
+          display: flex;
+          flex-direction: column; }
+          #main #main-content .component-wrapper .component-types .type-wrapper .type-name {
+            font-size: 1.2rem;
+            text-align: center; }
+          #main #main-content .component-wrapper .component-types .type-wrapper .type-component {
+            position: relative;
+            height: 300px; }
+  #main #main-sidebar {
+    grid-area: sidebar;
+    background-color: #002B54;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem 2rem; }
+    #main #main-sidebar .component-selector {
+      font-family: Roboto, sans-serif;
+      color: white;
+      padding: 5px 10px;
+      cursor: pointer;
+      font-size: 1.2rem; }
+      #main #main-sidebar .component-selector:hover {
+        color: #99A816; }
+  #main #main-footer {
+    grid-area: footer;
+    background-color: #e1e1e1; }
 

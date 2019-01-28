@@ -1,1 +1,2 @@
-export { default as BlueQuillSpinner } from 'spinners/js/BlueQuillSpinner.js';
+export { default as BlueQuillSpinner } from './categorized/spinners/blue-quill-spinner/BlueQuillSpinner.js';
+export { default as BlueQuillModalWithCenteredContent } from './categorized/modals/blue-quill-blanket-with-centered-content/BlueQuillModalWithCenteredContent.js';
